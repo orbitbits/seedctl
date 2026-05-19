@@ -34,7 +34,7 @@ Do NOT open public issues for security vulnerabilities.
 
 Contact:
 
-[evolvbits@gmail.com](mailto:evolvbits@gmail.com)
+[orbitbits@gmail.com](mailto:orbitbits@gmail.com)
 
 Include:
 
@@ -66,9 +66,9 @@ Users should:
 
 SeedCTL is provided "as is" without warranty of any kind.
 
-The EvolvBits Contributors assume no responsibility for loss of
+The OrbitBits Contributors assume no responsibility for loss of
 cryptocurrency, data, or funds resulting from use of this software.
 
 ## More details at
 
-- [https://evolvbits.github.io/seedctl/documentation/#security](https://evolvbits.github.io/seedctl/documentation/#security)
+- [https://orbitbits.github.io/seedctl/documentation/#security](https://orbitbits.github.io/seedctl/documentation/#security)

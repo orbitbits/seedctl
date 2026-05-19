@@ -1,11 +1,11 @@
 # Legal Information
 
-SeedCTL is developed and maintained by the EvolvBits Contributors.
+SeedCTL is developed and maintained by the OrbitBits Contributors.
 
 ## Ownership
 
 SeedCTL and its source code are the intellectual property of
-EvolvBits Contributors.
+OrbitBits Contributors.
 
 All rights are reserved unless explicitly granted under the
 Business Source License 1.1.
@@ -41,7 +41,7 @@ investment, or security advice.
 
 SeedCTL is provided **"AS IS"** without warranty of any kind.
 
-The EvolvBits Contributors assume no responsibility for:
+The OrbitBits Contributors assume no responsibility for:
 
 • financial losses
 • lost funds
@@ -56,7 +56,7 @@ Those components remain under their respective licenses.
 ## Contact
 
 GitHub
-[https://github.com/evolvbits/seedctl](https://github.com/evolvbits/seedctl)
+[https://github.com/orbitbits/seedctl](https://github.com/orbitbits/seedctl)
 
 GitLab
-[https://gitlab.com/evolvbits/seedctl](https://gitlab.com/evolvbits/seedctl)
+[https://gitlab.com/orbitbits/seedctl](https://gitlab.com/orbitbits/seedctl)

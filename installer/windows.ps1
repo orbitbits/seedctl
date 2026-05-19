@@ -7,7 +7,7 @@ param(
 $ErrorActionPreference = "Stop"
 
 $NAME             = "seedctl"
-$REPO             = "evolvbits/seedctl"
+$REPO             = "orbitbits/seedctl"
 $API_URL          = "https://api.github.com/repos/$REPO/releases/latest"
 $BINARY_NAME      = "seedctl"
 $ARCH             = "windows-x86_64"

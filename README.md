@@ -2,8 +2,8 @@
   <img src=".github/logo/seedctl-text.svg" alt="SeedCTL" width="350"/>
 </p>
 
-[![Build and Release (Linux & Windows)](https://github.com/evolvbits/seedctl/actions/workflows/release.yml/badge.svg)](https://github.com/evolvbits/seedctl/actions/workflows/release.yml)
-![Release](https://img.shields.io/github/v/release/evolvbits/seedctl?label=latest&color=blue)
+[![Build and Release (Linux & Windows)](https://github.com/orbitbits/seedctl/actions/workflows/release.yml/badge.svg)](https://github.com/orbitbits/seedctl/actions/workflows/release.yml)
+![Release](https://img.shields.io/github/v/release/orbitbits/seedctl?label=latest&color=blue)
 ![License](https://img.shields.io/badge/license-source--available-orange)
 ![Rust](https://img.shields.io/badge/rust-1.75%2B-orange)
 ![Offline](https://img.shields.io/badge/works-offline-important)
@@ -14,17 +14,17 @@
 
 ## Official page
 
-[https://evolvbits.github.io/seedctl/](https://evolvbits.github.io/seedctl/)
+[https://orbitbits.github.io/seedctl/](https://orbitbits.github.io/seedctl/)
 
 ## Canonical Documentation
 
 The full and up-to-date documentation is hosted at:
 
-- **Docs Hub**: [https://evolvbits.github.io/seedctl/documentation](https://evolvbits.github.io/seedctl/documentation/)
-- **Security**: [https://evolvbits.github.io/seedctl/documentation/#security](https://evolvbits.github.io/seedctl/documentation/#security)
-- **Disclaimer**: [https://evolvbits.github.io/seedctl/documentation/#disclaimer](https://evolvbits.github.io/seedctl/documentation/#disclaimer)
-- **Reproducibility & Deterministic Recovery**: [https://evolvbits.github.io/seedctl/documentation/#reproducibility](https://evolvbits.github.io/seedctl/documentation/#reproducibility)
-- **Terms of Use**: [https://evolvbits.github.io/seedctl/documentation/#terms](https://evolvbits.github.io/seedctl/documentation/#terms)
+- **Docs Hub**: [https://orbitbits.github.io/seedctl/documentation](https://orbitbits.github.io/seedctl/documentation/)
+- **Security**: [https://orbitbits.github.io/seedctl/documentation/#security](https://orbitbits.github.io/seedctl/documentation/#security)
+- **Disclaimer**: [https://orbitbits.github.io/seedctl/documentation/#disclaimer](https://orbitbits.github.io/seedctl/documentation/#disclaimer)
+- **Reproducibility & Deterministic Recovery**: [https://orbitbits.github.io/seedctl/documentation/#reproducibility](https://orbitbits.github.io/seedctl/documentation/#reproducibility)
+- **Terms of Use**: [https://orbitbits.github.io/seedctl/documentation/#terms](https://orbitbits.github.io/seedctl/documentation/#terms)
 
 ## ⚠️ SECURITY WARNING
 
@@ -38,9 +38,9 @@ For technical and operational details, always prefer the docs links above.
 
 ## Repository
 
-- GitHub: [https://github.com/evolvbits/seedctl](https://github.com/evolvbits/seedctl)
-- GitLab Mirror: [https://gitlab.com/evolvbits/seedctl](https://gitlab.com/evolvbits/seedctl)
+- GitHub: [https://github.com/orbitbits/seedctl](https://github.com/orbitbits/seedctl)
+- GitLab Mirror: [https://gitlab.com/orbitbits/seedctl](https://gitlab.com/orbitbits/seedctl)
 
 ## LICENSE
 
-Official license [Business Source License 1.1](https://github.com/evolvbits/seedctl/blob/main/LICENSE)
+Official license [Business Source License 1.1](https://github.com/orbitbits/seedctl/blob/main/LICENSE)

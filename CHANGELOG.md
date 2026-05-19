@@ -42,10 +42,10 @@ All notable milestones of this project will be documented in this file.
 - Reorganizing imports
 - Changed size logo
 - Refactoring code
-- Implement feedback for manual dice option ([#3](https://github.com/evolvbits/seedctl/issues/3))
-- Require offline environment to run ([#1](https://github.com/evolvbits/seedctl/issues/1))
+- Implement feedback for manual dice option ([#3](https://github.com/orbitbits/seedctl/issues/3))
+- Require offline environment to run ([#1](https://github.com/orbitbits/seedctl/issues/1))
 - Changed section CREDITS
-- Code refactoring, new features and Security Card ([#2](https://github.com/evolvbits/seedctl/issues/2))
+- Code refactoring, new features and Security Card ([#2](https://github.com/orbitbits/seedctl/issues/2))
 - Changed image logo - stroke
 - Refactoring the --about command
 - Major update - New structure and new features.

@@ -27,7 +27,7 @@ render_always = false
 
 # Change everything in (#) to link the issues.
 postprocessors = [
-    { pattern = '\(#([0-9]+)\)', replace = "([#${1}](https://github.com/evolvbits/seedctl/issues/${1}))" },
+    { pattern = '\(#([0-9]+)\)', replace = "([#${1}](https://github.com/orbitbits/seedctl/issues/${1}))" },
 ]
 
 [git]
