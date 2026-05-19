@@ -9,7 +9,7 @@ git-cliff = { version = "2.12.0" }
 [workspace.package]
 description = "Deterministic, auditable, security-focused multichain wallet manager."
 repository = "https://github.com/orbitbits/seedctl"
-version = "0.2.2"
+version = "0.2.3"
 authors = ["OrbitBits <contact.orbitbits@gmail.com>"]
 edition = "2024"
 rust-version = "1.89"
