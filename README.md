@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD041 -->
 <p align="center">
   <img src=".github/logo/seedctl-text.svg" alt="SeedCTL" width="350"/>
 </p>
