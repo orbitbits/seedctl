@@ -4,7 +4,7 @@
 
 The complete reproducibility guide is maintained at:
 
-- [https://orbitbits.github.io/seedctl/documentation/#reproducibility](https://orbitbits.github.io/seedctl/documentation/#reproducibility)
+- [https://orbitbits.com/seedctl/documentation/#reproducibility](https://orbitbits.com/seedctl/documentation/#reproducibility)
 
 ## Scope
 

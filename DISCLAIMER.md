@@ -4,7 +4,7 @@
 
 The full legal and operational disclaimer is maintained at:
 
-- [https://orbitbits.github.io/seedctl/documentation/#disclaimer/](https://orbitbits.github.io/seedctl/documentation/#disclaimer/)
+- [https://orbitbits.com/seedctl/documentation/#disclaimer/](https://orbitbits.com/seedctl/documentation/#disclaimer/)
 
 ## Scope
 

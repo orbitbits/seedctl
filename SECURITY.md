@@ -71,4 +71,4 @@ cryptocurrency, data, or funds resulting from use of this software.
 
 ## More details at
 
-- [https://orbitbits.github.io/seedctl/documentation/#security](https://orbitbits.github.io/seedctl/documentation/#security)
+- [https://orbitbits.com/seedctl/documentation/#security](https://orbitbits.com/seedctl/documentation/#security)

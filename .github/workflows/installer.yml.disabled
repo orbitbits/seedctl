@@ -28,22 +28,22 @@
 #           cp installer/windows.ps1 _site/installer/windows.ps1
 #           chmod +x _site/installer/linux.sh
 
-#           # Create index.html to redirect https://orbitbits.github.io/products/seedctl/
+#           # Create index.html to redirect https://orbitbits.com/products/seedctl/
 
 #           cat << 'EOF' > _site/index.html
 #           <!DOCTYPE html>
 #           <html lang="en">
 #           <head>
 #             <meta charset="UTF-8">
-#             <meta http-equiv="refresh" content="0; url=https://orbitbits.github.io/products/seedctl/">
+#             <meta http-equiv="refresh" content="0; url=https://orbitbits.com/products/seedctl/">
 #             <meta name="viewport" content="width=device-width, initial-scale=1.0">
 #             <title>Redirecting...</title>
 #             <script>
-#               window.location.href = "https://orbitbits.github.io/products/seedctl/";
+#               window.location.href = "https://orbitbits.com/products/seedctl/";
 #             </script>
 #           </head>
 #           <body>
-#             <p>Redirecting to <a href="https://orbitbits.github.io/products/seedctl/">SeedCTL</a>...</p>
+#             <p>Redirecting to <a href="https://orbitbits.com/products/seedctl/">SeedCTL</a>...</p>
 #           </body>
 #           </html>
 #           EOF
