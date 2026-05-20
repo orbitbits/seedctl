@@ -35,7 +35,7 @@ postprocessors = [
 filter_unconventional = false
 filter_commits = false
 use_branch_tags = false
-topo_order = true
+top_order = true
 
 # Important: Set the parsers to "SKIP" only what is considered junk.
 commit_parsers = [
