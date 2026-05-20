@@ -2,14 +2,36 @@
 
 All notable milestones of this project will be documented in this file.
 
+# [0.2.3] – 2026-05-20
+
+- Adding a new logo design
+- Adding LICENSE to logo
+- Adding logo in SVG
+- Removing before logo
+- Update files settings
+- New logo design
+- Change color bg hexagon
+- Update installers
+- New design logo seddctl
+- Adding CI installer.yml
+- Remove installer CI. Now being managed by the site itself
+- Remove installer CI. Now being managed by the site itself
+- Update LICENSE. Compatible with .txt
+- Chore: change name organization
+- The organization EvolvBits changed its name due to copyright reasons. The new name is OrbitBits.
+- New version 0.2.3
+- Update cliff.toml
+
 # [0.2.2] – 2026-03-13
 
 - Correcting footer Copyright
 - Correcting Copyright
 - Correcting urls
 - Adding Scan Common and improving menu navigation.
-- Fixing needless_borrow in crates/seedctl-sol/src/utils.rs
-- Resolving "MD034/no-bare-urls: Bare URL used" in markdown files
+- Fixing needless_borrow
+- Resolving "MD034/no-bare-urls: Bare URL used"
+- License update to Source-Available License
+- License update to Business Source License 1.1 (BSL 1.1)
 
 # [0.2.1] – 2026-03-04
 
